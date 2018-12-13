@@ -1,1 +1,4 @@
-12,14,16,15,12
+temperature, humidity, wind speed, time, location 
+15,80,30,12:10,blanchardstown
+17,82,64,15:29,donabate
+24,88,54,16:17,swords
