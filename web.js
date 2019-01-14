@@ -11,6 +11,6 @@ function handle_incoming_request(req, res) {
     });
 }
 
-var s = http.createServer(handle_incoming_request);
+var s = http.createServer(handle_incoming_request); //
 
 s.listen(8080);
